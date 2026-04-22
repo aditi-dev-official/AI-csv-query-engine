@@ -1,32 +1,28 @@
-📊 CSV AI Agent (Groq + LangChain + Streamlit)
-🚀 AI-powered Streamlit app to chat with and visualize CSV data in real time.
-✨ Features
-💬 Chat with your CSV data using natural language
-📊 Generate smart visualizations (bar charts, histograms, etc.)
-⚡ Powered by Groq LLM (Llama 3.3 70B)
-🧠 Built using LangChain CSV Agent
-🎨 Interactive UI with Streamlit
-🔍 Instant insights without writing code
-🖥️ Demo
-📂 Project Structure
-├── app.py              # Main Streamlit application
-├── requirements.txt    # Dependencies
-└── README.md           # Project documentation
-⚙️ Installation
-1. Clone the repository
-git clone https://github.com/your-username/csv-ai-agent-streamlit.git
-cd csv-ai-agent-streamlit
-2. Create virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
-3. Install dependencies
-pip install -r requirements.txt
-🔑 Setup
-Get your Groq API Key from:
-👉 https://console.groq.com/
-▶️ Run the App
-streamlit run app.py
+# 📊 CSV AI Agent (Groq + LangChain + Streamlit)
+
+> 🚀 Chat with your CSV data and generate visualizations using AI — in real time.
+
+---
+
+## 🎥 Demo
+
+![CSV AI Agent Demo](demo.gif)
+
+---
+
+## ✨ Features
+
+- 💬 Ask questions about your CSV using natural language  
+- 📊 Generate charts automatically (bar, line, histogram, etc.)  
+- ⚡ Powered by Groq (Llama 3.3 70B)  
+- 🧠 Built with LangChain Pandas DataFrame Agent  
+- 🎨 Interactive UI using Streamlit  
+- 🔍 Instant insights without coding  
+
+---
+
+## 📂 Project Structure
+
 🧠 How It Works
 Upload a CSV file 📁
 Ask questions about your data 💬
