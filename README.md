@@ -12,8 +12,6 @@
 * 🔍 Instant insights without coding
 
 ---
-## LIVE DEMO
-<img width="1872" height="841" alt="Screenshot 2026-04-22 at 14 53 24" src="https://github.com/user-attachments/assets/8394cfdf-2e5a-466d-8957-cce1ca416d28" />
 
 ## 📂 Project Structure
 
