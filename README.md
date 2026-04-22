@@ -2,16 +2,6 @@
 
 > 🚀 Chat with your CSV data and generate visualizations using AI — in real time.
 
----
-
-## 🎥 Demo
-
-![CSV AI Agent Demo](demo.gif)
-
-> ⚠️ Make sure you add a file named **demo.gif** in your project root (steps below)
-
----
-
 ## ✨ Features
 
 * 💬 Ask questions about your CSV using natural language
